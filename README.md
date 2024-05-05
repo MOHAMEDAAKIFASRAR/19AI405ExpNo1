@@ -1,7 +1,7 @@
 <h1>ExpNo 1 :Developing AI Agent with PEAS Description</h1>
 <h3>Date:12-02-2024
 <h3>Name: Mohamed aakif asrar S</h3>
-<h3>Register Number/Staff Id: 212223240088</h3>
+<h3>Register Number: 212223240088</h3>
 
 
 <h3>AIM:</h3>
